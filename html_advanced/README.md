@@ -1,4 +1,4 @@
-dvanced HTML Projects:
+Advanced HTML Projects:
 
 Dynamic Web Forms: Develop interactive forms with enhanced input validation, custom designs, and fields that adjust dynamically based on user input, leveraging HTML5 capabilities.
 
